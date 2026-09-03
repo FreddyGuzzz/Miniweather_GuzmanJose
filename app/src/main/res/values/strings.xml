@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Miniweather_GuzmanJ</string>
+    <string name="snowy">Miniweather_GuzmanJ</string>
+    <string name="windy">Miniweather_GuzmanJ</string>
+    <string name="stormy">Miniweather_GuzmanJ</string>
+    <string name="rainy">Miniweather_GuzmanJ</string>
+    <string name="cloudy">Miniweather_GuzmanJ</string>
+    <string name="sunny">Miniweather_GuzmanJ</string>
 </resources>
